@@ -129,3 +129,4 @@ Based on the insights from the Amazon product review analysis, the following dat
 ---
 
 ## [Click Here for the Excel file ](Amazon case Study.xlsx)
+## [Click Here for the project file](https://github.com/SamuelChukwulori/DSA-CAPSTONE-PROJECT-1/blob/main/Amazon%20case%20study.xlsx)
