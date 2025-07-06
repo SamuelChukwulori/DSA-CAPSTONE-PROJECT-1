@@ -129,4 +129,13 @@ Based on the insights from the Amazon product review analysis, the following dat
 ---
 
 
-### [Click Here for the Dashboard, pivot tables and Cleaned data](https://github.com/SamuelChukwulori/DSA-CAPSTONE-PROJECT-1/blob/main/Amazon%20case%20study.xlsx)
+### 📂 File Uploaded:
+- [Amazon Case Study.xlsx](Amazon%20Case%20Study.xlsx)
+
+### 🧾 Workbook Contents:
+- **Cleaned Dataset** – The preprocessed data used for analysis
+- **Pivot Table** – Used to aggregate metrics such as average rating, sales by category, and price buckets
+- **Dashboard** – Final visual report combining charts and filters
+
+> 📌 This Excel report sh
+
