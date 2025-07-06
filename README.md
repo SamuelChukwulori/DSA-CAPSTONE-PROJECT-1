@@ -56,6 +56,8 @@ The following business questions were answered:
    - Removed blanks, formatted price/discount fields
    - Converted columns to usable formats
    - Checked for consistency across columns
+   - Removed Duplicate Product Id
+   - After Removing Duplicate Product Id, I also removed 3 additional product Id, because the rows contained blanks in columns relevant to the Analysis
 
 2. **Data Transformation**:
    - Used Power Query to unpivot `Category 1–5` into a single column
@@ -85,12 +87,45 @@ The following business questions were answered:
 
 ---
 
-## 📌 Deliverables
+## 🧠 Recommendations to the Management
 
-- 📊 Excel Dashboard
-- 📁 Cleaned Dataset (Excel)
-- 📑 Project Documentation (README)
-- 🧠 Key Insights Summary
+Based on the insights from the Amazon product review analysis, the following data-driven recommendations are proposed to improve product performance, customer engagement, and revenue growth:
+
+### 🎯 1. Boost Visibility of Under-Reviewed Products
+- Over **58% of products** have fewer than **1,000 reviews**.
+- These products likely suffer from low exposure or discoverability.
+- 📌 **Action:** Invest in advertising campaigns, sponsored product placements, or influencer partnerships to increase visibility and reviews.
 
 ---
 
+### 🎯 2. Optimize Discounting Strategy
+- Products with **very high discounts (≥50%)** often show **lower average ratings**.
+- This suggests a risk of reduced product quality or customer satisfaction.
+- 📌 **Action:** Avoid over-discounting products with poor review history. Instead, apply strategic discounts to **well-rated products** to maintain brand value while encouraging conversions.
+
+---
+
+### 🎯 3. Prioritize High-Impact Categories and Products
+- Categories like **Electronics**, **Books**, and **Computers** have strong revenue potential based on their **review volume and pricing**.
+- 📌 **Action:** Allocate more marketing resources to these categories and use high-performing products as flagships in promotions.
+
+---
+
+### 🎯 4. Promote Top Performing Products
+- The **top 5 products** by (rating × review count) are strong indicators of success.
+- 📌 **Action:** Feature these products prominently on landing pages, email campaigns, and product bundles.
+
+---
+
+### 🎯 5. Reevaluate Underperforming Segments
+- Some categories show **high discounting and low engagement**, indicating weak customer interest.
+- 📌 **Action:** Reassess the value proposition of these segments — consider discontinuation, repositioning, or product improvements.
+
+---
+
+> These recommendations aim to help management improve profitability, product quality, and customer satisfaction in alignment with data-driven decisions.
+
+
+---
+
+## [Click Here for the Excel file ](Amazon case Study.xlsx)
