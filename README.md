@@ -130,7 +130,7 @@ Based on the insights from the Amazon product review analysis, the following dat
 
 
 ### 📂 File Uploaded:
-- [Amazon Case Study.xlsx](Amazon%20Case%20Study.xlsx)
+- [Amazon case study.xlsx](Amazon%20case%20study.xlsx)
 
 ### 🧾 Workbook Contents:
 - **Cleaned Dataset** – The preprocessed data used for analysis
