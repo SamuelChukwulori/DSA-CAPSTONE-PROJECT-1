@@ -13,7 +13,7 @@ The dataset contains the following:
 
 - Product details (name, category, price, discount, rating)
 - Customer engagement metrics (review counts, review titles, review content)
-- Multi-level product categorization (Category 1 to Category 5)
+- Multi-level product categorization (Category 1 to Category 5) in one column
 
 Each row represents a **unique product**, and review-related data is aggregated.
 
@@ -123,7 +123,7 @@ Based on the insights from the Amazon product review analysis, the following dat
 
 ---
 
-> These recommendations aim to help management improve profitability, product quality, and customer satisfaction in alignment with data-driven decisions.
+- These recommendations aim to help management improve profitability, product quality, and customer satisfaction in alignment with data-driven decisions.
 
 
 ---
@@ -137,5 +137,4 @@ Based on the insights from the Amazon product review analysis, the following dat
 - **Pivot Table** – Used to aggregate metrics such as average rating, sales by category, and price buckets
 - **Dashboard** – Final visual report combining charts and filters
 
-> 📌 This Excel report sh
 
