@@ -77,7 +77,7 @@ The following business questions were answered:
 
 ## 💡 Insights
 
-- **Most Impactful Product** had a combined score of **1.87 million**, reflecting both high rating and high number of reviews.
+- **Most Impactful Product** had a combined score of **1.88 million**, reflecting both high rating and high number of reviews.
 - **High Discounts ≠ High Ratings**: No strong correlation between discount and product rating.
 - **Top Categories by Discount**: *Computers & Accessories*, *Electronics*, and *Home Improvement*
 - **Underexposed Products**: Several high-rated products had low review counts — marketing opportunity.
@@ -94,6 +94,3 @@ The following business questions were answered:
 
 ---
 
-## 🚀 Final Thoughts
-
-This project demonstrates the power of Excel for meaningful business analysis using real-world e-commerce data. With pivot tables, calculated fields, and visualization, we derived valuable insights that sellers can use to fine-tune strategy, pricing, and product positioning.
